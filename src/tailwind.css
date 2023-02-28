@@ -5,4 +5,8 @@
   background-color: #1F2029;
 }
 
+.menu-bg {
+  background-color: #1F2029;
+}
+
 @tailwind utilities;
